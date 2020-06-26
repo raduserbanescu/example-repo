@@ -1,8 +1,8 @@
 Class that counts sheep
 
 sheep 0
-sheep 1
 sheep 2
 sheep 3
+wolf
 sheep 4
 sheep 5
