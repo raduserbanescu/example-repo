@@ -1,0 +1,6 @@
+Garbled library code v1.0
+
+You know you blindly copied me from GitHub
+and now you are trying to figure out how to use me.
+
+Well, good luck dude!
